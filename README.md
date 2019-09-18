@@ -1,2 +1,4 @@
 # explaining-tf-cnn
-Explainability methods for CNN
+Explainability methods for CNNs in TF.
+
+Using this dataset: https://google.github.io/cartoonset/
